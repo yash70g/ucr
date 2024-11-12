@@ -219,7 +219,7 @@ const Team = () => {
                     initial={{ opacity: 0, scale: 0.5 }}
                     animate={{ opacity: 1, scale: 1 }}
                     transition={{ duration: 0.5 }}
-                    src="./team/ayushdu.png"
+                    src="./team/ayushPa.png"
                     alt="img"
                     className="w-32 h-32 rounded-full mx-auto mb-4 object-cover"
                 />
@@ -335,7 +335,7 @@ const Team = () => {
                     initial={{ opacity: 0, scale: 0.5 }}
                     animate={{ opacity: 1, scale: 1 }}
                     transition={{ duration: 0.5 }}
-                    src="./team/ayushPa.png"
+                    src="./team/ayushdu.png"
                     alt="img"
                     className="w-32 h-32 rounded-full mx-auto mb-4 object-cover"
                 />
